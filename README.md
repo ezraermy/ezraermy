@@ -1,15 +1,15 @@
 
-- 🔭 I’m currently working on **Opensource project**
+- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **ReactJS, Ruby on Rails, Django**
+- 🌱 I’m currently learning **Javascript, Django, HTML, CSS**
 
-- 👯 I’m looking to collaborate on **Django, ReactJS/VueJS**
+- 👯 I’m looking to collaborate on **Javacript, Django,**
 
 - 🤝 I’m looking for help with **Supporting my opensource projects**
 
 - 👨‍💻 All of my projects are available at [ezraermy.github.io](ezraermy.github.io)
 
-- 💬 Ask me about **django, react, vue and ruby**
+- 💬 Ask me about **django, javacript and vue**
 
 - 📫 How to reach me **ezraermy@gmail.com**
 
