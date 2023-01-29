@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Supporting my opensource projects**
 
-- 👨‍💻 All of my projects are available at [https://ezraermy.github.io/](ezraermy.github.io)
+- 👨‍💻 All of my projects are available at [ezraermy.github.io](https://ezraermy.github.io/)
 
 - 💬 Ask me about **django, javacript and vue**
 
