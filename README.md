@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently student at **Microverse**
 
 - 🌱 I’m currently learning **Javascript, Django, HTML, CSS**
 
