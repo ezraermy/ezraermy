@@ -1,15 +1,7 @@
 
 - 🔭 I’m currently student at **Microverse**
 
-- 🌱 I’m currently learning **Javascript, Django, HTML, CSS**
-
-- 👯 I’m looking to collaborate on **Javacript, Django,**
-
-- 🤝 I’m looking for help with **Supporting my opensource projects**
-
-- 👨‍💻 All of my projects are available at [ezraermy.github.io](https://ezraermy.github.io/)
-
-- 💬 Ask me about **django, javacript and vue**
+- 🌱 I’m currently learning **Javascript, HTML, CSS**
 
 - 📫 How to reach me **ezraermy@gmail.com**
 
