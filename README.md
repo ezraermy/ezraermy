@@ -13,13 +13,13 @@
     pronouns: "he" || "his",
     code: [HTML, CSS, Javascript, Python, Ruby],
     tools: [React, Redux, Node, Django, Styled-Components, Jest, Webpack],
-    architecture: ["SPA", "PWA", "SSR", "SSG"],
+    architecture: ["microservices", "event-driven", "design system pattern", "DRY", "KISS"],
     techCommunities: {
                         events: "TechMeetups",
                         network: "LinkedIn",
                         mentor: "Coding Coach"
                       },
-    challenge: " Working on to-do list web application that includes pair-programming and TDD."
+    challenge: " Building the next-generation web application."
   }
 ```
 
