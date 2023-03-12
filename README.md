@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Ezra Yehuwalashet <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.licdn.com/dms/image/C5612AQEjoSxjae059A/article-cover_image-shrink_600_2000/0/1646131654217?e=2147483647&v=beta&t=0WkS28_nvCoXFGdGf0usPAbFsykV9HTNVx5edpJTYTU" width="360">
+<img align='right' src="https://media.licdn.com/dms/image/C5612AQEjoSxjae059A/article-cover_image-shrink_600_2000/0/1646131654217?e=2147483647&v=beta&t=0WkS28_nvCoXFGdGf0usPAbFsykV9HTNVx5edpJTYTU" width="280">
 <p><em>Web Development Student at <a href="https://www.microverse.org">Microverse</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 ## 🌐 Socials: 
