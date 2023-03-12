@@ -19,7 +19,7 @@
                         network: "LinkedIn",
                         mentor: "Coding Coach"
                       },
-    status: Student at Microverse that uses pair-programming and real-world projects to teach development."
+    challenge: " Working on to-do list web application that includes pair-programming and TDD."
   }
 ```
 
