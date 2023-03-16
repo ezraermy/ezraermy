@@ -10,7 +10,7 @@
 
 ``` javascript
   const Ezra = {
-    pronouns: "he",
+    pronouns: "he" || "his",
     code: [HTML, CSS, Javascript, Python, Ruby],
     tools: [React, Redux, Node, Django, Styled-Components, Jest, Webpack],
     architecture: ["microservices", "event-driven", "design system pattern", "DRY", "KISS"],
