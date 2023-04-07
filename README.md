@@ -8,18 +8,19 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ``` javascript
-  const Ezra = {
-    pronouns: "he" || "his",
-    code: [HTML, CSS, Javascript, Python, Ruby],
-    tools: [React, Redux, Node, Django, Styled-Components, Jest, Webpack],
-    architecture: ["microservices", "event-driven", "design system pattern", "DRY", "KISS"],
-    techCommunities: {
-                        events: "TechMeetups",
-                        network: "LinkedIn",
-                        mentor: "Coding Coach"
-                      },
-    challenge: " Building the next-generation web application."
-  }
+  const ezra = {
+  pronouns: "he/him",
+  code: ["HTML", "CSS", "JavaScript", "Python", "Ruby"],
+  tools: ["React", "Redux", "Node.js", "Django", "Styled Components", "Jest", "Webpack"],
+  architecture: ["Microservices", "Event-driven", "Design system pattern", "DRY", "KISS"],
+  techCommunities: {
+    events: "Tech Meetups",
+    network: "LinkedIn",
+    mentor: "Coding Coach"
+  },
+  currentChallenge: "Building the next-generation web application."
+};
+
 ```
 
 
