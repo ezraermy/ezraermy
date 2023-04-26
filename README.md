@@ -11,7 +11,7 @@
 ``` javascript
   const ezra = {
   pronouns: "he/him",
-  code: ["HTML", "CSS", "JavaScript", "Python", "Ruby"],
+  code: ["HTML", "CSS", "JavaScript", "React", "Python", "Ruby"],
   tools: ["React", "Redux", "Node.js", "Django", "Styled Components", "Jest", "Webpack"],
   architecture: ["Microservices", "Event-driven", "Design system pattern", "DRY", "KISS"],
   techCommunities: {
