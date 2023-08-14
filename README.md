@@ -12,7 +12,7 @@
   const ezra = {
   pronouns: "he/him",
   code: ["HTML", "CSS", "JavaScript", "Python", "Ruby"],
-  tools: ["React", "Redux", "Node.js", "Django", "Styled Components", "Jest", "Webpack"],
+  tools: ["React", "Redux", "Rails", "Node.js", "Django", "Styled Components", "Jest", "Webpack"],
   architecture: ["Microservices", "Event-driven", "Design system pattern", "DRY", "KISS"],
   techCommunities: {
     events: "Tech Meetups",
