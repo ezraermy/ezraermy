@@ -1,7 +1,7 @@
 
 <h2> Hi 👋, I'm Ezra Yehuwalashet :shipit: </h2>
 <img align='right' src="https://media.licdn.com/dms/image/C5612AQEjoSxjae059A/article-cover_image-shrink_600_2000/0/1646131654217?e=2147483647&v=beta&t=0WkS28_nvCoXFGdGf0usPAbFsykV9HTNVx5edpJTYTU" width="280">
-<p><em>Web Development Student at <a href="https://www.microverse.org">Microverse</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>Front-end developer at <a href="https://sefedsystems.com/">Sefed Systems</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezra-yehuwalashet) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ezraermy) 
